@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fine-simple&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fine-simple&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fine-simple&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fine-simple&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?theme=radical&quote=He%20who%20fights%20with%20monsters%20might%20take%20care%20lest%20he%20thereby%20become%20a%20monster.%0AAnd%20if%20you%20gaze%20for%20long%20into%20an%20abyss%2C%20the%20abyss%20gazes%20also%20into%20you.&author=Nietzsche)
