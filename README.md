@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ahmed Tawfik
 - 👀 I’m interested in Full Stack developing
-- 🌱 I’m currently learning NodeJS with Express
 - 💞️ I’m looking to collaborate on web projects
 
 ## 🌐 Socials:
